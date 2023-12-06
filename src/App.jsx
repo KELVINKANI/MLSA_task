@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Kelvin Sikamoi",
-  title: "Network Engineer & Cloud Security Engineer ",
+  title: "Network Solutions Architect & Cloud Security Engineer ",
   email: "sikamoikelvin777@gmail.com",
   gitHub: "KELVINKANI",
   instagram: "kelvinkani",
